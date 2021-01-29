@@ -37,10 +37,10 @@ const questions = [
         message: "What are the test instructions?"
     }, 
     {
-        type: "checkbox",
+        type: "list",
         name: "license",
-        message: "What licenses did you use?", //right now you can select more than one
-        choices: ["Apache", "GNU", 'MIT', "BSD-3-clause", "None"]
+        message: "What licenses did you use?", 
+        choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None']
     }
 
 ];
