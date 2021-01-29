@@ -49,7 +49,8 @@ ${data.usageInformation}
 ${renderLicenseLink(data.license)}
 
 ### Contributing 
-${data.contributioGuidlines}
+${data.contributionGuidlines}
+
 
 ### Test Instructions
 ${data.testInstructions}
