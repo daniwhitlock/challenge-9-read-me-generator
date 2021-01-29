@@ -42,7 +42,7 @@ return `
 ### Description
 ${data.description}
 ### Installation Instructions
-${data.installationIntructions}
+${data.installationInstructions}
 ### Usage 
 ${data.usageInformation}
 ### License
