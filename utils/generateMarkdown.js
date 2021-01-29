@@ -46,7 +46,7 @@ ${data.installationInstructions}
 ### Usage 
 ${data.usageInformation}
 ### License
-${renderLicenseLink(data.license)}
+${renderLicenseBadge(data.license)}
 
 ### Contributing 
 ${data.contributionGuidlines}
