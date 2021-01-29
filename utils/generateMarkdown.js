@@ -43,11 +43,16 @@ return `
 ${data.description}
 ### Installation Instructions
 ${data.installationIntructions}
-${data.installationCommands}
 ### Usage 
 ${data.usageInformation}
 ### License
 ${renderLicenseLink(data.license)}
+
+### Contributing 
+${data.contributioGuidlines}
+
+### Test Instructions
+${data.testInstructions}
 
 
 

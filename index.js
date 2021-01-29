@@ -60,8 +60,10 @@ function init() {
     inquirer
     .prompt (
         questions
+        
     )
     .then(answers =>{
+        console.table(answers);
         writeToFile('README.md', generateMarkdown(answers));
     })
 }
