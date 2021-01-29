@@ -25,7 +25,7 @@ function renderLicenseSection(license) {
     if (!license || license === 'None') {
         return ``;
     } else {
-        return `### License ${renderLicenseBadge(license)}`;
+        return `### License`;
     }
 }
 
@@ -50,6 +50,7 @@ ${data.installationInstructions}
 ${data.usageInformation}
 
 ${renderLicenseSection(data.license)}
+${renderLicenseBadge(data.license)}
 
 ### Contributing 
 ${data.contributionGuidlines}
