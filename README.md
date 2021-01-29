@@ -1,16 +1,16 @@
 
-# dani 
+# daniwhitlock 
 ## Table of Contents
 
 ### Description
-daniwhitlock
+asdf
 ### Installation Instructions
 undefined
 undefined
 ### Usage 
 asdf
-### Credits
-
+### License
+undefined
 
 
 
